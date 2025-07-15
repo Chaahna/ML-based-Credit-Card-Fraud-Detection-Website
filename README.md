@@ -20,7 +20,6 @@ Each model returns a prediction, and the final classification is determined base
 - **Logistic Regression**
 - **Naive Bayes**
 
-All models were trained on a credit card dataset, preprocessed with feature selection, scaling, and balancing techniques (if applicable).
 
 ## 🖥️ Tech Stack
 
@@ -37,7 +36,7 @@ All models were trained on a credit card dataset, preprocessed with feature sele
 
 ```
 ## 📈 Future Improvements
--Add model evaluation dashboards (ROC curves, confusion matrices)
--Use ensemble voting strategies or stacking
--Improve UI design and form validations
--Deploy to a cloud platform (e.g., Heroku or Render)
+- Add model evaluation dashboards (ROC curves, confusion matrices)
+- Use ensemble voting strategies or stacking
+- Improve UI design and form validations
+- Deploy to a cloud platform (e.g., Heroku or Render)
